@@ -9,3 +9,7 @@ Example command:
 - First argument is the target directory
 
 - Second argument is the similarity threshold (optional, defaults to 400) 
+
+Example output:
+
+![](https://i.imgur.com/nUlbFDp.png)
