@@ -2,7 +2,7 @@
 
 Based on the algorithm described [here](https://web.archive.org/web/20160305150423/http://www.lac.inpe.br/JIPCookbook/6050-howto-compareimages.jsp), with many modifications made.
 
-Check the directory branch for an application that uses this module to efficiently find similarities between any amount of pictures in a directory.
+Check the **directory** branch for an application that uses this module to efficiently find similarities between any amount of pictures in a directory.
 
 ## How to use?
 
